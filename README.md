@@ -54,7 +54,7 @@ playwright install
 
 3. Create a `.env` file with your API key:
 
-REQRES_API_KEY=your_api_key_here
+REQREST_API_KEY=your_api_key_here
 
 ## ▶️ Running Tests
 
